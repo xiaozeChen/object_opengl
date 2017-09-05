@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">object_opengl</string>
+    <string name="title_activity_open_gles20">OpenGLES20</string>
+</resources>
